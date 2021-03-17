@@ -18,3 +18,7 @@ Based on previous experience with models of the same size, a single neuron with 
 The models tested were not able to achieve the target performance of 75%. 
 
 To increase model performance, the number of layers were increased, the hidden layer activation functions were changed top 'tanh' and model weights were saved every 5 epochs.
+
+## Summary
+
+At 73 percent, two of the models were close to the target performance. To achieve the project goal, further testing with respect to the number of neurons and more research into effective models for data of this size and makeup should be considered. In addition, another machine method approach may be considered.
